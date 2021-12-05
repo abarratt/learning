@@ -1,0 +1,38 @@
+{
+  "fishFamily" : "Cichlidae",
+  "order" : "Cichliformes",
+  "kingdom": "Animalia",
+  "numSpecies" : 1650,
+  "popularSpecies" : [
+    {
+      "name" : "Oscar",
+      "lifespan" : "20 years",
+      "size" : "8-16 inches",
+      "characteristics" : [
+        "Dogs of the fish world",
+        "Grows very quickly",
+        "Also known as Tiger Oscars"
+      ]
+    },
+    {
+      "name" : "Convict",
+      "lifespan" : "8 years",
+      "size" : "6 inches",
+      "characteristics" : [
+        "Considered fantastic parents",
+        "Aggressive and territorial",
+        "Also known as Zebra Cichlids"
+      ]
+    },
+    {
+      "name" : "Blood-red Parrot",
+      "lifespan" : "15 years",
+      "size" : "8 inches",
+      "characteristics" : [
+        "Hybrid of two other species",
+        "Peaceful and playful fish ",
+        "Their mouths stay open"
+      ]
+    }
+  ]
+}
